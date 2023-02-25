@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "mini-break-app": "https://github.com/carl-ukiyo-studio/mini-break-app.git",
+    "mini-break-server": "https://github.com/carl-ukiyo-studio/mini-break-server.git"
+  }
 }
